@@ -1,4 +1,4 @@
-# MP3 Copy Meta
+# MP3 Copy ID3 Metadata
 
 A python script to copy mp3 metadata for all files from the source folder to the matching files in the destination folder.
 
@@ -15,7 +15,7 @@ A python script to copy mp3 metadata for all files from the source folder to the
     % pip3 install -r requirements.txt
     ```
 
-3. Run the script
+## Run
 
    ```
    % python3 mp3-copy-meta.py ~/Temp/src ~/Temp/dst
